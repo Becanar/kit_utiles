@@ -1,4 +1,4 @@
-name: iabd_plantilla
+name: venvKitUtiles
 channels:
   - defaults
   - conda-forge
